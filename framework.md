@@ -4,7 +4,7 @@
 
 # Analysis Framework infrastructure on top of O2 DPL
 
-In order to simplify analysis we have introduced an extension to DPL which allows to describe an Analysis in the form of a collection of Analysis Task.
+In order to simplify analysis we have introduced an extension to DPL which allows to describe an Analysis in the form of a collection of Analysis Tasks.
 
 In order to create its own task, as user you need to create your own Task.
 
